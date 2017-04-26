@@ -2,7 +2,7 @@
 data
 
 # Environment
-.env
+# .env
 
 # Logs
 logs
