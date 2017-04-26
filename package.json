@@ -1,0 +1,37 @@
+{
+      "name": "clementinejs-fcc-es6",
+      "version": "1.0.0",
+      "description": "Clementine.js boilerplate for freeCodeCamp (includes GitHub authentication using Passport.js). Updated to use ES6 syntax. Original: https://github.com/johnstonbl01/clementinejs-fcc",
+      "main": "server.js",
+      "scripts": {
+            "start": "node server.js"
+      },
+      "repository": {
+            "type": "git",
+            "url": "git+https://github.com/CharmedSatyr/clementinejs-fcc-es6"
+      },
+      "keywords": [
+		"MongoDB",
+		"Mongoose",
+		"full stack",
+		"Express",
+		"Node",
+		"javascript",
+		"boilerplate",
+	        "freeCodeCamp"
+      ],
+      "author": "CharmedSatyr",
+      "license": "GPL-3.0",
+      "bugs": {
+            "url": "https://github.com/CharmedSatyr/clementinejs-fcc-es6/issues"
+      },
+      "homepage": "https://github.com/CharmedSatyr/clementinejs-fcc-es6#readme",
+      "dependencies": {
+            "dotenv": "^4.0.0",
+            "express": "^4.15.2",
+            "express-session": "^1.15.2",
+            "mongoose": "^4.9.5",
+            "passport": "^0.3.2",
+            "passport-github": "^1.1.0"
+      }
+}
